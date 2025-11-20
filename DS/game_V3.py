@@ -18,6 +18,7 @@ def game_core_v3(number: int = 1) -> int:
     count = 0
     score = 0
     predict = np.random.randint(1, 101)
+    # Цикл для деления пополам диапазона поиска
     while number != predict and score < 3:
         score += 1
         if number > predict:
