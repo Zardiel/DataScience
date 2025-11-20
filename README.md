@@ -1,6 +1,9 @@
 # My data science projects
 From the [Scillfactory Data Science coutse](https://github.com/Zardiel/DataScience)
 
+[Ссылка на Goggle Диск](https://colab.research.google.com/drive/1WBM1VfD1PbPpNqrZ2cFUPAGQdZxKvCPR?usp=drive_link)
+
+
 ## Оглавление
 
 * [1. Проект 1. Игра: Угадай число V2](https://github.com/Zardiel/DataScience/blob/main/DS/game_V2.py)
